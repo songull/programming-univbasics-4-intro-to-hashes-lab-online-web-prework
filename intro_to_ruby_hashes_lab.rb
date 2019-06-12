@@ -7,7 +7,10 @@ my_hash={"coconut" => "big", "dez" =>"av"}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  pioneer={
+    :name => "L"
+    :home => "Brown house"
+  }
 end
 
 def id_generator
