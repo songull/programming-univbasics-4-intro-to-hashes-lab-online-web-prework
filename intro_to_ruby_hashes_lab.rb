@@ -21,6 +21,7 @@ end
 def my_hash_creator(key, value)
 my_hash = {
 :name => "Grace Hopper"
+:1 => 2
 }
 end
 
