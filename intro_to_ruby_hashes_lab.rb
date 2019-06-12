@@ -8,8 +8,7 @@ end
 
 def pioneer
   pioneer={
-    :name => "L"
-    :home => "Brown house"
+    :name => "Grace Hopper"
   }
 end
 
