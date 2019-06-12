@@ -1,5 +1,5 @@
 def new_hash
-  # return an empty hash
+{"key" =>"v", "ak" => "av"}
 end
 
 def my_hash
