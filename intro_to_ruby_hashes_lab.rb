@@ -20,7 +20,7 @@ end
 
 def my_hash_creator(key, value)
 my_hash_creator = {
-name: 1 =<2
+name: 1 =>2
 }
 end
 
