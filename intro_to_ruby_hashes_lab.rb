@@ -1,5 +1,5 @@
 def new_hash
-{"key" =>"v", "ak" => "av"}
+second_hash=Hash.new
 end
 
 def my_hash
